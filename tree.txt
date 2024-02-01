@@ -1,0 +1,15 @@
+.
+├── cmt.txt
+├── controllers
+│   └── user.controller.go
+├── go.mod
+├── go.sum
+├── main.go
+├── models
+│   └── user.go
+├── services
+│   ├── user.service.go
+│   └── user.service.impl.go
+└── tree.txt
+
+3 directories, 9 files
